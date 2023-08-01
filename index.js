@@ -120,6 +120,6 @@ const newArr = arr1.map(el =>el*4)
 const arr2 = [1, 2, 3, 4, 5]
 
 const newArr1 = arr2.map(function(el) {
-    return arr[2]*2
+    return arr2[2]*2
 })
     console.log(newArr1)
